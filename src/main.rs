@@ -7,10 +7,10 @@ use clap::Parser;
     long_about = "This is a simple CLI program to say hello in different languages."
 )]
 struct Args {
-    #[arg(short, long)]
+    #[arg(short = 'n', long = "n")]
     name: String,
 
-    #[arg(short, long)]
+    #[arg(short = 'l', long = "l")]
     language: String,
 }
 
