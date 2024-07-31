@@ -4,6 +4,7 @@ version = "0.1.1"
 edition = "2021"
 description = "This is a simple CLI program to say hello in different languages."
 license = "MIT"
+repository = "https://github.com/TaroYamada1997/welcomer"
 
 [dependencies]
 clap = { version = "4.5.11", features = ["derive"] }
