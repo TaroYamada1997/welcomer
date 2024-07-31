@@ -38,4 +38,4 @@ This program uses the `clap` crate for parsing command-line arguments.
 
 ## Version
 
-Current version: 0.1.1
+Current version: 0.1.2
