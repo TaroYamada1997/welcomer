@@ -17,6 +17,12 @@ The program accepts two arguments:
 - `-n, --name <NAME>`: The name of the person to greet
 - `-l, --language <LANGUAGE>`: The language code for the greeting
 
+Example:
+
+```
+welcomer --n taro --l ja
+```
+
 ## Supported Languages
 
 - en: English
@@ -38,4 +44,4 @@ This program uses the `clap` crate for parsing command-line arguments.
 
 ## Version
 
-Current version: 0.1.2
+Current version: 0.1.3
