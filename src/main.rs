@@ -2,7 +2,7 @@ use clap::Parser;
 
 #[derive(Parser, Debug)]
 #[command(
-    version = "0.1.0",
+    version = "0.1.3",
     about,
     long_about = "This is a simple CLI program to say hello in different languages."
 )]
