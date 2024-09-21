@@ -35,6 +35,7 @@ welcomer --n taro --l ja
 - ru: Russian
 - ko: Korean
 - zu: Zulu
+- pt: Portugal
 
 If an unsupported language code is specified, the program will default to an English greeting.
 
