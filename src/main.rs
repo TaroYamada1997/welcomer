@@ -30,6 +30,7 @@ fn main() {
         "ru" => println!("Привет, {name}!"),
         "ko" => println!("안녕하세요, {name}!"),
         "zu" => println!("Sawubona, {name}!"),
+        "pt" => println!("Olá, {name}!"),
         _ => println!("Hello, {name}!"),
     }
 }
